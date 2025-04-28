@@ -5,9 +5,7 @@
   box-sizing: border-box;
   font-family: sans-serif;
 }
-body{
-  background-color: ;
-}
+
 .CONTAINER {
 
   display: flex;
@@ -160,6 +158,10 @@ input {
 
 @media screen and (max-width: 600px) {
 
+
+  .Left{
+    width: 100%;
+  }
   .Right-image {
     display: none;
   }
