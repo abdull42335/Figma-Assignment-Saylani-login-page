@@ -150,10 +150,7 @@ input {
 }
 
 @media screen and (max-width: 600px) {
-  .Left {
-    border-radius: 12px;
-  }
-
+ 
   .Right-image {
     display: none;
   }
@@ -164,6 +161,6 @@ input {
 }
 .Right-image img {
   height: 764px;
-  width:  142vh;
+  width:  132vh;
   left: 581px;
 }
